@@ -1,0 +1,6 @@
+{
+  "name": "Truthlens",
+  "description": "An AI Content Provenance & Verification Platform that detects AI-generated and manipulated media, verifies the authenticity, origin, and trustworthiness of digital content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
